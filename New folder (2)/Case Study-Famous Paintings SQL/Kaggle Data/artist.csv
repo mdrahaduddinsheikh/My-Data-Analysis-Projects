@@ -1,0 +1,422 @@
+artist_id,full_name,first_name,middle_names,last_name,nationality,style,birth,death
+500,Pierre-Auguste Renoir,Pierre,Auguste,Renoir,French,Impressionist,14/01/1905,02/04/1905
+501,Alexandre Cabanel,Alexandre,,Cabanel,French,Classicist,27/12/1904,03/03/1905
+502,James Ensor,James,,Ensor,Belgian,Expressionist,02/02/1905,02/05/1905
+503,Maximilien Luce,Maximilien,,Luce,French,Pointillist,31/01/1905,24/04/1905
+504,August Macke,August,,Macke,German,Expressionist,01/03/1905,28/03/1905
+505,Thomas Gainsborough,Thomas,,Gainsborough,English,Rococo,22/09/1904,22/11/1904
+506,Julien Dupré,Julien,,Dupre,French,Naturalist,24/01/1905,24/03/1905
+507,George Catlin,George,,Catlin,American,American West,30/11/1904,14/02/1905
+508,Federico Zandomeneghi,Federico,,Zandomeneghi,Italian,Expressionist,14/01/1905,31/03/1905
+509,Cornelis Springer,Cornelis,,Springer,Dutch,Landscape Art,21/12/1904,05/03/1905
+510,Hans Memling,Hans,,Memling,Dutch,Northern Renaissance,05/12/1903,02/02/1904
+511,Piet Mondrian,Piet,,Mondrian,Dutch,Modern Art,14/02/1905,27/04/1905
+512,Lemuel Francis Abbott,Lemuel,Francis,Abbott,English,Portraitist,25/10/1904,07/12/1904
+513,Mary Cassatt,Mary,,Cassatt,American,Impressionist,17/01/1905,09/04/1905
+514,Heinrich Campendonk,Heinrich,,Campendonk,German,Expressionist,03/03/1905,10/05/1905
+515,Thomas Cole,Thomas,,Cole,American,Hudson River School,05/12/1904,21/01/1905
+516,Thomas Luny,Thomas,,Luny,English,Marine Art,24/10/1904,10/01/1905
+517,Eugène-Louis Boudin,Eugene,Louis,Boudin,French,Impressionist,28/12/1904,12/03/1905
+518,Hendrick Dubbels,Hendrick,,Dubbels,Dutch,Marine Art,08/06/1904,02/08/1904
+519,Frank Duveneck,Frank,,Duveneck,American,Realist,21/01/1905,02/04/1905
+520,Asher Brown Durand,Asher,Brown,Durand,American,Hudson River School,30/11/1904,28/02/1905
+521,George Henry Laporte,George,Henry,Laporte,English,Realist,03/12/1904,15/02/1905
+522,Peter Monamy,Peter,,Monamy,English,Marine Art,07/08/1904,14/10/1904
+523,John Francis Rigaud,John,Francis,Rigaud,English,Portraitist,07/10/1904,14/12/1904
+524,John William Waterhouse,John,William,Waterhouse,English,Romantic,22/01/1905,31/03/1905
+525,Francis William Edmonds,Francis,William,Edmonds,American,Colonial,10/12/1904,05/02/1905
+526,Frank Weston Benson,Benson,Frank,Weston,American,Impressionist,04/02/1905,04/05/1905
+527,Jean Raoux,Jean,,Raoux,French,Rococo,03/08/1904,29/09/1904
+528,Joseph Ducreux,Joseph,,Ducreux,French,Portraitist,30/09/1904,06/12/1904
+529,Gustaf Wilhelm Palm,Gustaf,Wilhelm,Palm,Swiss,Classicist,14/12/1904,04/03/1905
+530,Edward William Cooke,Edward,William,Cooke,English,Marine Art,15/12/1904,22/02/1905
+531,Camille Pissarro,Camille,,Pissarro,French,Impressionist,03/01/1905,17/03/1905
+532,Pieter Quast,Pieter,,Quast,Dutch,Baroque,24/05/1904,04/07/1904
+533,George Wesley Bellows,George,Wesley,Bellows,American,Realist,24/02/1905,08/04/1905
+534,Alfred Henry Maurer,Alfred,Henry,Maurer,American,Avant-Garde,10/02/1905,15/04/1905
+535,Pierre-Henri De Valenciennes,Pierre,Henri,De Valenciennes,French,Romantic,15/10/1904,23/12/1904
+536,Henri Lebasque,Henri,,Lebasque,French,Post-Impressionist,07/02/1905,20/04/1905
+537,Claude Lorrain,Claude,,Lorraine,French,Baroque,20/05/1904,08/08/1904
+538,Thomas Moran,Thomas,,Moran,American,Hudson River School,10/01/1905,09/04/1905
+539,Jean-Baptiste Greuze,Jean,Baptiste,Greuze,French,Rococo,20/09/1904,09/12/1904
+540,Fernand Cormon,Fernand,,Cormon,French,Classicist,18/01/1905,07/04/1905
+541,Pierre Puvis De Chavannes,Pierre,Puvis,De Chavannes,French,Symbolist,28/12/1904,12/03/1905
+542,Sir Henry Raeburn,Henry,,Raeburn,English,Romantic,21/10/1904,27/12/1904
+543,Charles Peale Polk,Charles,Peale,Polk,American,Portraitist,01/11/1904,26/12/1904
+544,Peter Paul Rubens,Peter,Paul,Rubens,Flemish,Baroque,25/04/1904,27/06/1904
+545,Odilon Redon,Odilon,,Redon,French,Symbolist,13/01/1905,30/03/1905
+546,Vilhelm Hammershoi,Vilhelm,,Hammershoi,Danish,Symbolist,06/02/1905,30/03/1905
+547,Édouard Vuillard,Edouard,,Vuillard,French,Nabi,10/02/1905,23/04/1905
+548,Albrecht Durer,Albrecht,,Durer,German,Northern Renaissance,10/01/1904,07/03/1904
+549,Arnold Böcklin,Arnold,,Bocklin,Swiss,Symbolist,31/12/1904,15/03/1905
+550,Claude Monet,Claude,,Monet,French,Impressionist,13/01/1905,09/04/1905
+551,Sir Lawrence Alma-Tadema,Lawrence,Alma,Tadema,English,Classicist,09/01/1905,26/03/1905
+552,Maurice Denis,Maurice,,Denis,French,Nabi,12/02/1905,26/04/1905
+553,El Greco,Dom?nikos,,Theotokópoulos,Spanish,Mannerist,20/03/1904,01/06/1904
+554,Frans Jansz Post,Frans,Jansz,Post,Dutch,Baroque,30/05/1904,06/08/1904
+555,Angel Zárraga,Angel,,Zarraga,Mexican,Realist,28/02/1905,29/04/1905
+556,James Tissot,James,,Tissot,French,Classicist,09/01/1905,16/03/1905
+557,Liubov Popova,Liubov,,Popova,Russian,Modern Art,03/03/1905,07/04/1905
+558,Sansio Raphael,Sansio,,Raphael,Italian,High Renaissance,22/01/1904,28/02/1904
+559,Albert Marquet,Albert,,Marquet,French,Post-Impressionist,17/02/1905,30/04/1905
+560,Charles Marion Russell,Charles,Marion,Russell,American,American West,06/02/1905,09/04/1905
+561,Canaletto,Giovanni,Antionio,Canaletto,Italian,Rococo,23/08/1904,02/11/1904
+562,Lyonel Feininger,Lyonel,,Feininger,German,Expressionist,13/02/1905,09/05/1905
+563,Édouard Adam,Adam,,Edouard,American,Marine Art,20/01/1905,12/04/1905
+564,Willem Duyster,Willem,,Duyster,Dutch,Baroque,17/05/1904,22/06/1904
+565,John James Audubon,John,James,Audubon,American,Naturalist,19/11/1904,24/01/1905
+566,Charles Towne,Charles,,Towne,English,Romantic,28/10/1904,13/01/1905
+567,Jean Auguste Ingres,Jean,Auguste,Ingres,French,Neoclassical,14/11/1904,09/02/1905
+568,Theo Van Doesburg,Theo,,Van Doesburg,Dutch,Futurist,25/02/1905,14/04/1905
+569,Adriaan De Lelie,Adriaan,,De Lelie,Dutch,Portraitist,20/10/1904,24/12/1904
+570,Constantin A. Westchiloff,Constantin,A,Westchiloff,Russian,Impressionist,19/02/1905,28/04/1905
+571,Théophile Steinlen,Theophile,Alexandre,Steinlen,French,Art Nouveau,01/02/1905,06/04/1905
+572,John Trumbull,John,,Trumbull,American,Neoclassical,21/10/1904,16/01/1905
+573,Alfred Sisley,Alfred,,Sisley,French,Impressionist,12/01/1905,13/03/1905
+574,Johannes Vermeer,Jan,,Vermeer,Dutch,Baroque,19/06/1904,01/08/1904
+575,Nicolaes Berchem,Nicolaes,,Berchem,Dutch,Baroque,07/06/1904,09/08/1904
+576,Roger De La Fresnaye,Roger,,De La Fresnaye,French,Cubist,27/02/1905,08/04/1905
+577,Kees Van Dongen,Kees,,Van Dongen,Dutch,Fauvist,19/02/1905,21/05/1905
+578,Thomas Lyde Hornbrook,Thomas,Lyde,Hornbrook,English,Marine Art,14/11/1904,28/01/1905
+579,Thomas Hovenden,Thomas,,Hovenden,American,Colonial,13/01/1905,09/03/1905
+580,Henri Manguin,Henri,,Manguin,French,Post-Impressionist,16/02/1905,02/05/1905
+581,John White Alexander,John,White,Alexander,American,Symbolist,29/01/1905,29/03/1905
+582,Charles Demuth,Charles,,Demuth,American,Modern Art,25/02/1905,18/04/1905
+583,Pompeo Girolamo Batoni,Pompeo,Girolamo,Batoni,Italian,Rococo,03/09/1904,21/11/1904
+584,Charles Sprague Pearce,Charles,Sprague,Pearce,American,Realist,24/01/1905,28/03/1905
+585,Suzanne Valadon,Suzanne,,Valadon,French,Post-Impressionist,07/02/1905,21/04/1905
+586,Gabrie¨l Metsu,Gabriel,,Metsu,Dutch,Baroque,16/06/1904,24/07/1904
+587,Georges Braque,Georges,,Braque,French,Cubist,24/02/1905,16/05/1905
+588,Caspar David Friedrich,Caspar,David,Friedrich,German,Romantic,08/11/1904,13/01/1905
+589,William Merritt Chase,William,Merritt,Chase,American,Impressionist,22/01/1905,30/03/1905
+590,Antoine Bouvard,Antoine,,Bouvard,French,Impressionist,12/02/1905,09/05/1905
+591,William P. Chappel,William,P,Chappel,American,Avant-Garde,01/01/1905,01/03/1905
+592,Aelbert Cuyp,Aelbert,,Cuyp,Dutch,Baroque,07/06/1904,17/08/1904
+593,Robert Henri,Robert,,Henri,American,Realist,07/02/1905,12/04/1905
+594,Isaak Levitan,Isaak,,Levitan,Russian,Realist,02/02/1905,14/03/1905
+595,Francois Boucher,Francois,,Boucher,French,Rococo,29/08/1904,04/11/1904
+596,Pieter Bruegel,Pieter,,Bruegel,Dutch,Renaissance,04/03/1904,09/03/1904
+597,Adriaen Thomasz. Key,Adriaen,Thomasz,Key,Dutch,Renaissance,23/03/1904,07/05/1904
+598,Edgar Degas,Edgar,,Degas,French,Impressionist,07/01/1905,31/03/1905
+599,Thomas Sully,Thomas,,Sully,American,Portraitist,17/11/1904,14/02/1905
+600,Antoine-Jean Gros,Antoine,Jean,Gros,French,Neoclassical,05/11/1904,08/01/1905
+601,George Romney,George,,Romney,English,Realist,29/09/1904,06/12/1904
+602,Francis Luis Mora,Francis,Luis,Mora,American,Realist,16/02/1905,23/04/1905
+603,George Stubbs,George,,Stubbs,English,Romantic,19/09/1904,10/12/1904
+604,Louis Vivin,Louis,,Vivin,French,Avant-Garde,03/02/1905,19/04/1905
+605,Dominic Serres,Dominic,,Serres,English,Marine Art,17/09/1904,27/11/1904
+606,Simon De Vlieger,Simon,,De Vlieger,Dutch,Marine Art,18/05/1904,10/07/1904
+607,Sir Anthony Van Dyck,Anthony,,Van Dyck,Flemish,Baroque,17/05/1904,28/06/1904
+608,James McNeill Whistler,James,Mcneill,Whistler,American,Impressionist,07/01/1905,17/03/1905
+609,John Singleton Copley,John,Singleton,Copley,American,Colonial,03/10/1904,19/12/1904
+610,Alfred Thompson Bricher,Alfred,Thompson,Bricher,American,Hudson River School,10/01/1905,22/03/1905
+611,Sir Edwin Landseer,Sir,Edwin,Landseer,English,Realist,06/12/1904,15/02/1905
+612,Katsushika Hokusai,Katsushika,,Hokusai,Japanese,Ukiyo-e,25/10/1904,22/01/1905
+613,John Everett Millais,John,Everett,Millais,English,Romantic,02/01/1905,10/03/1905
+614,Childe Hassam,Childe,,Hassam,American,Impressionist,01/02/1905,18/04/1905
+615,Abraham Mignon,Abraham,,Mignon,Dutch,Baroque,27/06/1904,05/08/1904
+616,Adèle Romany,Adele,,Romany,French,Portraitist,03/11/1904,19/01/1905
+617,Hendrik Voogd,Hendrik,,Voogd,Dutch,Landscape Art,02/11/1904,12/01/1905
+618,Paula Modersohn-Becker,Becker,Paula,Modersohn,German,Expressionist,18/02/1905,21/03/1905
+619,Sandro Botticelli,Sandro,,Botticelli,Italian,Early Renaissance,15/12/1903,18/02/1904
+620,Yves Tanguy,Yves,,Tanguy,French,Surrealist,14/03/1905,08/05/1905
+621,Adélaïde Labille-Guiard,Adelaide,Labille,Guiard,French,Neoclassical,14/10/1904,07/12/1904
+622,William Bradford,William,,Bradford,American,Marine Art,27/12/1904,06/03/1905
+623,Henry Moret,Henry,,Moret,French,Impressionist,29/01/1905,27/03/1905
+624,Theodore C. Steele,Theodore,C,Steele,American,Impressionist,20/01/1905,09/04/1905
+625,Gerard Ter Borch,Gerard,,Ter Borch,Dutch,Baroque,04/06/1904,07/08/1904
+626,John Ottis Adams,John,Ottis,Adams,American,Impressionist,24/01/1905,10/04/1905
+627,Titian,Tiziano,,Vecellio,Italian,High Renaissance,24/01/1904,24/04/1904
+628,Joachim Beuckelaer,Joachim,,Beuckelaer,Dutch,Renaissance,12/03/1904,22/04/1904
+629,Hans Dahl,Hans,,Dahl,Norwegian,Realist,22/01/1905,20/04/1905
+630,Juan Gris,Juan,,Gris,Spanish,Cubist,01/03/1905,10/04/1905
+631,Bartholomeus Van Der Helst,Bartholomeus,,Van der Helst,Dutch,Portraitist,31/05/1904,27/07/1904
+632,Eugene De Blaas,Eugene,,De Blaas,Austrian,Classicist,16/01/1905,14/04/1905
+633,Ivan Aivazovskiy,Ivan,,Aivazovskiy,Russian,Landscape Art,21/12/1904,14/03/1905
+634,Charles Caleb Ward,Charles,Caleb,Ward,Canadian,Realist,15/12/1904,21/02/1905
+635,Rosa Bonheur,Rosa,,Bonheur,French,Realist,26/12/1904,13/03/1905
+636,Carlo Brancaccio,Carlo,,Brancaccio,Italian,Impressionist,03/02/1905,03/04/1905
+637,William Michael Harnett,William,Michael,Harnett,American,Realist,21/01/1905,06/03/1905
+638,Jean-Baptiste Oudry,Jean,Baptiste,Oudry,French,Baroque,12/08/1904,20/10/1904
+639,George Caleb Bingham,George,Caleb,Bingham,American,Realist,15/12/1904,21/02/1905
+640,Thomas Jacques Somerscales,Thomas,Jacques,Somerscales,English,Marine Art,15/01/1905,10/04/1905
+641,Arthur Fitzwilliam Tait,Arthur,Fitzwilliam,Tait,American,Naturalist,23/12/1904,19/03/1905
+642,Jan Adam Kruseman,Jan,Adam,Kruseman,Dutch,Portraitist,08/12/1904,04/02/1905
+643,Frans Francken,Frans,,Francken,Flemish,Baroque,29/04/1904,29/06/1904
+644,Benjamin West,Benjamin,,West,American,Neoclassical,03/10/1904,24/12/1904
+645,Gustave Courbet,Gustave,,Courbet,French,Realist,23/12/1904,19/02/1905
+646,Louis Apol,Louis,,Apol,Dutch,Impressionist,23/01/1905,19/04/1905
+647,Simon Vouet,Simon,,Vouet,French,Baroque,08/05/1904,06/07/1904
+648,Jean-Francois Millet,Jean,Francois,Millet,French,Realist,18/12/1904,17/02/1905
+649,Maurice Utrillo,Maurice,,Utrillo,French,Realist,25/02/1905,08/05/1905
+650,Édouard Manet,Edouard,,Manet,French,Impressionist,05/01/1905,25/02/1905
+651,Jules Breton,Jules,,Breton,French,Realist,31/12/1904,20/03/1905
+652,Paul Kane,Paul,,Kane,Canadian,America West,14/12/1904,13/02/1905
+653,Émile Bernard,Emile,,Bernard,French,Symbolist,10/02/1905,24/04/1905
+654,Lev Feliksovich Lagorio,Lev,Feliksovich,Lagorio,Russian,Romantic,31/12/1904,19/03/1905
+655,Charles Cromwell Ingham,Charles,Cromwell,Ingham,Irish,Portraitist,30/11/1904,05/02/1905
+656,Wassily Kandinsky,Wassily,,Kandinsky,Russian,Expressionist,08/02/1905,27/04/1905
+657,Gerrit Berckheyde,Gerrit,,Berckheyde,Dutch,Rococo,25/06/1904,24/08/1904
+658,George P. A. Healy,George,P A,Healy,American,Portraitist,17/12/1904,08/03/1905
+659,Albert André,Albert,,Andre,French,Expressionist,11/02/1905,07/05/1905
+660,Georges Lemmen,Georges,,Lemmen,Belgian,Pointillist,07/02/1905,30/03/1905
+661,Peder Severin Kroyer,Peder,Severin,Kroyer,Danish,Impressionist,24/01/1905,23/03/1905
+662,Charles Courtney Curran,Charles,Courtney,Curran,American,Impressionist,03/02/1905,25/04/1905
+663,Sir George Clausen,Sir,George,Clausen,English,Realist,25/01/1905,27/04/1905
+664,Ludwig Deutsch,Ludwig,,Deutsch,Austrian,Orientalist,28/01/1905,18/04/1905
+665,Ludolf Backhuysen,Ludolf,,Backhuysen,Dutch,Marine Art,18/06/1904,03/09/1904
+666,Frederic Edwin Church,Frederic,Edwin,Church,American,Hudson River School,30/12/1904,14/03/1905
+667,Jean-Léon Gérôme,Jean,Leon,Gerome,French,Orientalist,28/12/1904,18/03/1905
+668,John Wollaston,John,,Wollaston,English,Rococo,05/09/1904,09/11/1904
+669,Ferdinand Hodler,Ferdinand,,Hodler,Swiss,Art Nouveau,26/01/1905,01/04/1905
+670,Vasiliy Polenov,Vasiliy,,Polenov,Russian,Landscape Art,17/01/1905,10/04/1905
+671,Thomas Waterman Wood,Thomas,Waterman,Wood,American,Colonial,27/12/1904,17/03/1905
+672,Benjamin Marshall,Benjamin,,Marshall,English,Romantic,02/11/1904,08/01/1905
+673,Théodore Géricault,Theodore,,Gericault,French,Romantic,25/11/1904,28/12/1904
+674,Claude-Joseph Vernet,Claude,Joseph,Vernet,French,Neoclassical,09/09/1904,23/11/1904
+675,Jan Brueghel,Jan,,Brueghel,Flemish,Renaissance,16/04/1904,12/06/1904
+676,Francois-Hubert Drouais,Francois,Hubert,Drouais,French,Neoclassical,22/09/1904,09/11/1904
+677,Vincent Van Gogh,Vincent,,Van Gogh,Dutch,Post-Impressionist,26/01/1905,04/03/1905
+678,Cecilia Beaux,Cecilia,,Beaux,American,Expressionist,28/01/1905,25/04/1905
+679,Kitagawa Utamaro,Kitagawa,,Utamaro,Japanese,Ukiyo-e,19/10/1904,10/12/1904
+680,John Frederick Herring,John,Frederick,Herring,English,Realist,29/11/1904,07/02/1905
+681,Francisco De Zurbarán,Francisco,,De Zurbaran,Spanish,Baroque,16/05/1904,21/07/1904
+682,Gwen John,Gwen,,John,English,Nabi,18/02/1905,22/04/1905
+683,George Frederic Watts,George,Frederic,Watts,English,Symbolist,21/12/1904,18/03/1905
+684,Carel Fabritius,Carel,,Fabritius,Dutch,Baroque,09/06/1904,11/07/1904
+685,Eduard Von Grützner,Eduard,,Von Grutzner,German,Rococo,19/01/1905,08/04/1905
+686,Matthew Pratt,Matthew,,Pratt,American,Colonial,29/09/1904,09/12/1904
+687,Carlo Carra,Carlo,,Carra,Italian,Futurist,23/02/1905,19/05/1905
+688,Franz Marc,Franz,,Marc,German,Expressionist,22/02/1905,30/03/1905
+689,Georges Seurat,Georges,,Seurat,French,Pointillist,01/02/1905,05/03/1905
+690,John Hoppner,John,,Hoppner,English,Neoclassical,23/10/1904,14/12/1904
+691,Fernand Léger,Fernand,,Leger,French,Cubist,23/02/1905,08/05/1905
+692,Bartolomé Esteban Murillo,Bartolome,Esteban,Murillo,Spanish,Baroque,04/06/1904,08/08/1904
+693,John Frederick Kensett,John,Frederick,Kensett,American,Hudson River School,20/12/1904,14/02/1905
+694,André Derain,Andre,,Derain,French,Fauvist,22/02/1905,07/05/1905
+695,Étienne Dinet,Etienne,,Dinet,French,Orientalist,03/02/1905,12/04/1905
+696,Henri Le Sidaner,Henri,,Le Sidaner,French,Post-Impressionist,04/02/1905,22/04/1905
+697,Reinier Nooms,Reinier,,Nooms,Dutch,Marine Art,10/06/1904,21/07/1904
+698,Benvenuto Garofalo,Benvenuto,,Garofalo,Italian,Renaissance,20/01/1904,07/04/1904
+699,Jean-Baptiste-Siméon Chardin,Jean,Simeon,Chardin,French,Rococo,25/08/1904,13/11/1904
+700,William Redmore Bigg,William,Redmore,Bigg,English,Neoclassical,20/10/1904,01/01/1905
+701,Giovanni Battista Tiepolo,Giovanni,Battista,Tiepolo,Italian,Rococo,22/08/1904,04/11/1904
+702,Louis Valtat,Louis,,Valtat,French,Fauvist,11/02/1905,05/05/1905
+703,Jacob Van Ruisdael,Jacob,Van,Ruisdael,Dutch,Baroque,15/06/1904,08/08/1904
+704,John Kane,John,,Kane,American,Folk,02/02/1905,17/04/1905
+705,Willem Bartel Van Der Kooi,Willem,Bartel,Van der Kooi,Dutch,Portraitist,02/11/1904,09/01/1905
+706,Anton Raphael Mengs,Anton,Raphael,Mengs,German,Neoclassical,23/09/1904,13/11/1904
+707,Laurent de La Hyre,Laurent,,De La Hyre,French,Baroque,24/05/1904,13/07/1904
+708,Alexei Von Jawlensky,Alexei,,Von Jawlensky,Russian,Expressionist,06/02/1905,24/04/1905
+709,Charles Brooking,Charles,,Brooking,English,Marine Art,18/09/1904,24/10/1904
+710,Paul Gabriël,Paul,,Gabriel,Dutch,Landscape Art,01/01/1905,17/03/1905
+711,Robert Delaunay,Robert,,Delaunay,French,Cubist,27/02/1905,24/04/1905
+712,Albert Bierstadt,Albert,,Bierstadt,American,Hudson River School,03/01/1905,16/03/1905
+713,Isaac Van Ostade,Isaac,,Van Ostade,Dutch,Baroque,08/06/1904,06/07/1904
+714,Francisco De Goya,Francisco,,De Goya,Spanish,Rococo,11/10/1904,01/01/1905
+715,Jean-Hippolyte Flandrin,Jean,Hippolyte,Flandrin,French,Neoclassical,13/12/1904,06/02/1905
+716,William Stanley Haseltine,William,Stanley,Haseltine,American,Hudson River School,08/01/1905,14/03/1905
+717,John Lynn,John,,Lynn,English,Marine Art,30/12/1904,11/02/1905
+718,Charles Willson Peale,Charles,Willson,Peale,American,Colonial,06/10/1904,31/12/1904
+719,Guido Reni,Guido,,Reni,Italian,Baroque,23/04/1904,29/06/1904
+720,Jacques-Louis David,Jacques,Louis,David,French,Neoclassical,13/10/1904,29/12/1904
+721,Ernest Lawson,Ernest,,Lawson,Canadian,Impressionist,15/02/1905,22/04/1905
+722,Fitz Hugh Lane,Fitz,Hugh,Lane,American,Hudson River School,08/12/1904,07/02/1905
+723,George Gardner Symons,George,Gardner,Symons,American,Impressionist,05/02/1905,13/04/1905
+724,Gustave Moreau,Gustave,,Moreau,French,Symbolist,30/12/1904,12/03/1905
+725,Santiago Rusiñol,Santiago,,Rusinol,Spanish,Post-Impressionist,03/02/1905,14/04/1905
+726,James Peale,James,,Peale,American,Colonial,14/10/1904,04/01/1905
+727,Geertgen tot Sint Jans,Geertgen,Tot,Sint Jans,Dutch,Renaissance,04/01/1904,03/02/1904
+728,Jan Van Goyen,Jan,,Van Goyen,Dutch,Baroque,14/05/1904,13/07/1904
+729,Willem Van De Velde,Willem,Van,De Velde,Dutch,Marine Art,20/06/1904,02/09/1904
+730,Pieter Claesz,Pieter,,Claesz,Dutch,Baroque,15/05/1904,17/07/1904
+731,Jean Ranc,Jean,,Ranc,French,Baroque,31/07/1904,30/09/1904
+732,Frans Hals,Frans,,Hals,Dutch,Baroque,30/04/1904,23/07/1904
+733,George Inness,George,,Inness,American,Hudson River School,29/12/1904,08/03/1905
+734,Edward Hicks,Edward,,Hicks,American,Colonial,14/11/1904,22/01/1905
+735,David Teniers,David,,Teniers,Flemish,Baroque,28/05/1904,16/08/1904
+736,Hendrick Ter Brugghen,Hendrick,,Ter Brugghen,Dutch,Baroque,06/05/1904,16/06/1904
+737,Nicolas Poussin,Nicolas,,Poussin,French,Baroque,12/05/1904,22/07/1904
+738,Cima Da Conegliano,Cima,,Da Conegliano,Italian,Early Renaissance,29/12/1903,25/02/1904
+739,Maurice De Vlaminck,Maurice,,De Vlaminck,French,Fauvist,18/02/1905,11/05/1905
+740,Horace Vernet,Horace,,Vernet,French,Orientalist,23/11/1904,05/02/1905
+741,Henri Edmond Cross,Henri,Edmond,Cross,French,Pointillist,29/01/1905,24/03/1905
+742,Georges D'Espagnat,Georges,,Despagnat,French,Post-Impressionist,12/02/1905,03/05/1905
+743,Sawrey Gilpin,Sawrey,,Gilpin,English,Realist,28/09/1904,11/12/1904
+744,Giovanni Boldini,Giovanni,,Boldini,Italian,Classicist,15/01/1905,14/04/1905
+745,Gustave Doré,Gustave,,Dore,French,Romantic,05/01/1905,25/02/1905
+746,Jean-Marc Nattier,Jean,Marc,Nattier,French,Rococo,11/08/1904,31/10/1904
+747,Jean-Francois Raffaelli,Jean,Francois,Raffaelli,French,Impressionist,23/01/1905,07/04/1905
+748,Francois Gérard,Francois,,Gerard,French,Neoclassical,04/11/1904,10/01/1905
+749,Pieter De Hooch,Pieter,,De Hooch,Dutch,Baroque,16/06/1904,10/08/1904
+750,Christian Rohlfs,Christian,,Rohlfs,German,Expressionist,22/01/1905,21/04/1905
+751,Jean-Baptiste Perronneau,Jean,Baptiste,Perronneau,French,Rococo,10/09/1904,17/11/1904
+752,Louis Comfort Tiffany,Louis,Comfort,Tiffany,American,Art Nouveau,21/01/1905,16/04/1905
+753,James McDougal Hart,James,Mcdougal,Hart,American,Hudson River School,01/01/1905,15/03/1905
+754,Franz Xavier Winterhalter,Franz,Xavier,Winterhalter,German,Classicist,09/12/1904,15/02/1905
+755,Sergei Vinogradov,Sergei,,Vinogradov,Russian,Impressionist,06/02/1905,24/03/1905
+756,Paul Sérusier,Paul,,Serusier,French,Post-Impressionist,05/02/1905,10/04/1905
+757,Albrecht Adam,Adam,,Albrecht,German,Baroque,20/11/1904,04/02/1905
+758,Karel Dujardin,Karel,,Dujardin,Dutch,Baroque,09/06/1904,04/08/1904
+759,Konstantin Gorbatov,Konstantin,,Gorbatov,Russian,Post-Impressionist,18/02/1905,28/04/1905
+760,Kasimir Malevich,Kasimir,,Malevich,Russian,Cubist,20/02/1905,18/04/1905
+761,Francis Picabia,Francis,,Picabia,French,Surrealist,21/02/1905,06/05/1905
+762,Jack Butler Yeats,Jack,Butler,Yeats,Irish,Expressionist,13/02/1905,10/05/1905
+763,Paul Signac,Paul,,Signac,French,Pointillist,05/02/1905,18/04/1905
+764,Sir Joshua Reynolds,Joshua,,Reynolds,English,Rococo,18/09/1904,26/11/1904
+765,Judith Leyster,Judith,,Leyster,Dutch,Baroque,27/05/1904,17/07/1904
+766,Pietro Longhi,Pietro,,Longhi,Italian,Rococo,27/08/1904,19/11/1904
+767,Pieter Jansz. Saenredam,Pieter,Jansz,Saenredam,Dutch,Baroque,15/05/1904,22/07/1904
+768,Caesar Van Everdingen,Caesar,Boetius,Van Everdingen,Dutch,Baroque,03/06/1904,04/08/1904
+769,Berthe Morisot,Berthe,,Morisot,French,Impressionist,14/01/1905,09/03/1905
+770,Mark Rothko,Mark,,Rotho,American,Modern Art,17/03/1905,23/05/1905
+771,Jacques Laurent Agasse,Jacques,Laurent,Agasse,Swiss,Romantic,01/11/1904,22/01/1905
+772,Spencer Frederick Gore,Spencer,Frederick,Gore,English,Expressionist,20/02/1905,28/03/1905
+773,Georges Rouault,Georges,,Rouault,French,Expressionist,13/02/1905,11/05/1905
+774,Diego Velázquez,Diego,,Velazquez,Spanish,Baroque,17/05/1904,17/07/1904
+775,Grant Wood,Grant,,Wood,American,Colonial,05/03/1905,25/04/1905
+776,Frederic Remington,Frederic,,Remington,American,American West,03/02/1905,23/03/1905
+777,Ambrosius Bosschaert,Ambrosius,,Bosschaert,Dutch,Baroque,21/04/1904,08/06/1904
+778,Raoul Dufy,Raoul,,Dufy,French,Fauvist,19/02/1905,06/05/1905
+779,Maurice Prendergast,Maurice,,Prendergast,American,Post-Impressionist,31/01/1905,07/04/1905
+780,Edwin Lord Weeks,Edwin,Lord,Weeks,American,Orientalist,22/01/1905,17/03/1905
+781,Giacomo Balla,Giacomo,,Balla,Italian,Futurist,13/02/1905,11/05/1905
+782,Paul Gauguin,Paul,,Gauguin,French,Post-Impressionist,21/01/1905,17/03/1905
+783,Rogier Van Der Weyden,Rogier,Van,der Weyden,Dutch,Northern Renaissance,31/10/1903,03/01/1904
+784,Jan Willem Pieneman,Jan,Willem,Pieneman,Dutch,Portraitist,13/11/1904,26/01/1905
+785,Lovis Corinth,Lovis,,Corinth,German,Expressionist,31/01/1905,08/04/1905
+786,Henri Fantin-Latour,Henri,Fantin,Latour,French,Realist,09/01/1905,18/03/1905
+787,Lorenzo Lotto,Lorenzo,,Lotto,Italian,High Renaissance,19/01/1904,04/04/1904
+788,John Cleveley,John,,Cleveley,English,Marine Art,07/09/1904,11/11/1904
+789,George Garrard,George,,Garrard,English,Realist,25/10/1904,30/12/1904
+790,William Trost Richards,William,Trost,Richards,American,Hudson River School,06/01/1905,19/03/1905
+791,John Singer Sargent,John,Singer,Sargent,American,Impressionist,29/01/1905,08/04/1905
+792,Edvard Munch,Edvard,,Munch,Norwegian,Expressionist,05/02/1905,27/04/1905
+793,Andrea Mantegna,Andrea,,Mantegna,Italian,Renaissance,01/12/1903,14/02/1904
+794,Winslow Homer,Winslow,,Homer,American,Realist,09/01/1905,24/03/1905
+795,Jan Van Eyck,Jan,Van,Eyck,Flemish,Northern Renaissance,26/10/1903,11/12/1903
+796,Joseph Blackburn,Joseph,,Blackburn,American,Rococo,26/08/1904,14/11/1904
+797,Philippe De Champaigne,Philippe,De,Champaigne,French,Baroque,20/05/1904,31/07/1904
+798,Ferdinand Bol,Ferdinand,,Bol,Dutch,Baroque,03/06/1904,06/08/1904
+799,Camille Bombois,Camille,,Bombois,French,Avant-Garde,25/02/1905,23/05/1905
+800,Amadeo De Souza-Cardoso,Amadeo,de Souza,Cardoso,Spanish,Cubist,01/03/1905,01/04/1905
+801,Ivan Shishkin,Ivan,,Shishkin,Russian,Romantic,05/01/1905,12/03/1905
+802,William Sidney Mount,William,Sidney,Mount,American,Realist,11/12/1904,10/02/1905
+803,John La Farge,John,,La Farge,American,Realist,12/01/1905,07/04/1905
+804,Sir Peter Lely,Sir,Peter,Lely,Dutch,Baroque,05/06/1904,06/08/1904
+805,Edward Henry Potthast,Edward,,Potthast,American,Impressionist,30/01/1905,10/04/1905
+806,Willem Claesz. Heda,Willem,Claesz,Heda,Dutch,Baroque,12/05/1904,06/08/1904
+807,Henri Rousseau,Henri,,Rousseau,French,Avant-Garde,17/01/1905,24/03/1905
+808,Alexey Savrasov,Alexey,,Savrasov,Russian,Landscape Art,03/01/1905,11/03/1905
+809,John Durand,John,,Durand,American,Colonial,26/09/1904,09/12/1904
+810,Frederick Carl Frieseke,Frederick,Carl,Frieseke,American,Impressionist,16/02/1905,22/04/1905
+811,John Russell,John,,Russell,English,Portraitist,10/10/1904,10/12/1904
+812,Jan Steen,Jan,,Steen,Dutch,Baroque,13/06/1904,05/08/1904
+813,Jean-Honoré Fragonard,Jean,Honore,Fragonard,French,Rococo,27/09/1904,10/12/1904
+814,Jan Van Huysum,Jan,,Van Huysum,Dutch,Rococo,08/08/1904,14/10/1904
+815,Leonardo Da Vinci,Leonardo,,Da Vinci,Italian,High Renaissance,22/12/1903,27/02/1904
+816,William James Glackens,William,,Glackens,American,Realist,12/02/1905,21/04/1905
+817,Lord Frederic Leighton,Lord,Frederic,Leighton,English,Classicist,03/01/1905,10/03/1905
+818,Jan Miense Molenaer,Jan,Miense,Molenaer,Dutch,Baroque,28/05/1904,25/07/1904
+819,Willem Maris,Willem,,Maris,Dutch,Naturalist,17/01/1905,24/03/1905
+820,Edmond Aman-Jean,Edmond,Francois Aman,Jean,French,Symbolist,02/02/1905,18/04/1905
+821,Maxime Maufra,Maxime,,Maufra,French,Impressionist,05/02/1905,01/04/1905
+822,William Hodges,William,,Hodges,English,Marine Art,09/10/1904,01/12/1904
+823,Alice Bailly,Alice,,Bailly,Swiss,Cubist,14/02/1905,21/04/1905
+824,Ernst Ludwig Kirchner,Ernst,Ludwig,Kirchner,German,Expressionist,22/02/1905,21/04/1905
+825,Félix Vallotton,Felix,,Vallotton,Swiss,Nabi,07/02/1905,08/04/1905
+826,Jean Baptiste Vanmour,Jean,Baptiste,Vanmour,Flemish,Orientalist,28/07/1904,02/10/1904
+827,Gustav Klimt,Gustav,,Klimt,Austrian,Art Nouveau,04/02/1905,01/04/1905
+828,Francis Augustus Silva,Francis,Augustus,Silva,American,Hudson River School,08/01/1905,28/02/1905
+829,Gustave Caillebotte,Gustave,,Caillebotte,French,Impressionist,21/01/1905,08/03/1905
+830,Giuseppe Arcimboldo,Giuseppe,,Arcimboldo,Italian,Mannerist,09/03/1904,11/05/1904
+831,Amedeo Modigliani,Amedeo,,Modigliani,Italian,Expressionist,26/02/1905,03/04/1905
+832,Gerard Van Honthorst,Gerard,Van,Honthorst,Dutch,Baroque,08/05/1904,13/07/1904
+833,John Wesley Jarvis,John,Wesley,Jarvis,American,Portraitist,14/11/1904,13/01/1905
+834,Eugène Delacroix,Eugene,,Delacroix,French,Romantic,02/12/1904,05/02/1905
+835,Enoch Wood Perry,Enoch,Wood,Perry,American,Realist,04/01/1905,29/03/1905
+836,Aristide Maillol,Aristide,,Maillol,French,Nabi,03/02/1905,27/04/1905
+837,Adolph Ulrich Wertmuller,Adolph,Ulrich,Wertmuller,Swiss,Portraitist,16/10/1904,15/12/1904
+838,Marie-Guillemine Benoist,Marie,Guillemine,Benoist,French,Neoclassical,02/11/1904,30/12/1904
+839,Georges De La Tour,Georges,,De La Tour,French,Baroque,11/05/1904,09/07/1904
+840,Eugène Girardet,Eugene,,Girardet,French,Orientalist,26/01/1905,21/03/1905
+841,Umberto Boccioni,Umberto,,Boccioni,Italian,Futurist,24/02/1905,30/03/1905
+842,Rachel Ruysch,Rachel,,Ruysch,Dutch,Baroque,21/07/1904,15/10/1904
+843,Egon Schiele,Egon,,Schiele,Austrian,Art Nouveau,04/03/1905,01/04/1905
+844,Gaston La Touche,Gaston,,La Touche,French,Post-Impressionist,27/01/1905,27/03/1905
+845,Sir Arthur Stockdale Cope,Arthur,Stockdale,Cope,English,Marine Art,30/01/1905,23/04/1905
+846,Gerrit Dou,Gerrit,,Dou,Dutch,Baroque,31/05/1904,01/08/1904
+847,Jean-Francois Portaels,Jean,Francois,Portaels,Belgian,Orientalist,22/12/1904,09/03/1905
+848,Hans Holbein,Hans,,Holbein,German,Northern Renaissance,04/01/1904,03/03/1904
+849,Jules Pascin,Jules,,Pascin,French,Expressionist,27/02/1905,13/04/1905
+850,Jean Béraud,Jean,,Beraud,French,Impressionist,22/01/1905,18/04/1905
+851,Giorgio Morandi,Giorgio,,Morandi,Italian,Futurist,04/03/1905,17/05/1905
+852,Léon Augustin Lhermitte,Leon,Augustin,Lhermitte,French,Realist,17/01/1905,08/04/1905
+853,Henri De Toulouse-Lautrec,Henri,De Toulouse,Lautrec,French,Post-Impressionist,06/02/1905,15/03/1905
+854,Theodor Von Hörmann,Theodor,,Von Hormann,Austrian,Impressionist,13/01/1905,09/03/1905
+855,Anders Zorn,Anders,,Zorn,Swiss,Realist,02/02/1905,03/04/1905
+856,Gilbert Stuart,Gilbert,,Stuart,American,Portraitist,20/10/1904,01/01/1905
+857,Martin Johnson Heade,Martin,Johnson,Heade,American,Hudson River School,23/12/1904,18/03/1905
+858,Paul Ranson,Paul,,Ranson,French,Nabi,06/02/1905,23/03/1905
+859,Jean Discart,Jean,,Discart,French,Orientalist,29/01/1905,27/04/1905
+860,Jan Portielje,Jan,,Portielje,Dutch,Classicist,02/01/1905,22/03/1905
+861,Jan Porcellis,Jan,,Porcellis,Flemish,Marine Art,28/04/1904,19/06/1904
+862,Charles-Francois Daubigny,Charles,Francois,Daubigny,French,Naturalist,21/12/1904,20/02/1905
+863,Oswald Achenbach,Oswald,,Achenbach,German,Realist,31/12/1904,19/03/1905
+864,Arthur Bowen Davies,Arthur,Bowen,Davies,American,Symbolist,04/02/1905,11/04/1905
+865,Buonarroti Michelangelo,Buonarroti,,Michelangelo,Italian,High Renaissance,14/01/1904,12/04/1904
+866,Théo Van Rysselberghe,Theo,,Van Rysselberghe,Belgian,Pointillist,04/02/1905,09/04/1905
+867,Cornelis Troost,Cornelis,,Troost,Dutch,Rococo,22/08/1904,15/10/1904
+868,Joshua Johnson,Joshua,,Johnson,American,Folk,28/10/1904,28/12/1904
+869,Pierre Auguste Cot,Pierre,Auguste,Cot,French,Classicist,10/01/1905,25/02/1905
+870,Caravaggio,Michelangelo,Merisi,Da Caravaggio,Italian,Baroque,19/04/1904,28/05/1904
+871,Konstantin A. Korovin,Konstantin,A,Korovin,Russian,Impressionist,03/02/1905,22/04/1905
+872,Paul Cézanne,Paul,,Cezanne,French,Post-Impressionist,12/01/1905,20/03/1905
+873,Paul Klee,Paul,,Klee,Swiss,Expressionist,21/02/1905,23/04/1905
+874,Jacob Cornelisz Van Oostsanen,Jacob,Cornelisz,Van Oostsanen,Dutch,Renaissance,09/01/1904,12/03/1904
+875,Jules Bastien-Lepage,Jules,Bastien,Lepage,French,Realist,21/01/1905,26/02/1905
+876,Salvador Dalí,Salvador,,Dali,Spanish,Surrealist,15/03/1905,11/06/1905
+877,Edgar William,Edgar,,William,American,Colonial,12/02/1905,01/04/1905
+878,Chaïm Soutine,Chaim,,Soutine,French,Expressionist,07/03/1905,26/04/1905
+879,Jean-Étienne Liotard,Jean,Etienne,Liotard,Swiss,Mannerist,28/08/1904,23/11/1904
+880,Robert William Vonnoh,Robert,William,Vonnoh,American,Impressionist,31/01/1905,16/04/1905
+881,Hendrick Avercamp,Hendrick,,Avercamp,Dutch,Baroque,03/05/1904,21/06/1904
+882,Gaston Bussière,Gaston,,Bussiere,French,Symbolist,04/02/1905,11/04/1905
+883,Thomas Eakins,Thomas,,Eakins,American,Realist,17/01/1905,30/03/1905
+884,Otto Mueller,Otto,,Mueller,German,Expressionist,16/02/1905,13/04/1905
+885,Lucas Cranach,Lucas,,Cranach,German,Northern Renaissance,11/01/1904,01/04/1904
+886,Paulus Potter,Paulus,,Potter,Dutch,Baroque,12/06/1904,11/07/1904
+887,Johan Barthold Jongkind,Johan,Barthold,Jongkind,Dutch,Impressionist,23/12/1904,05/03/1905
+888,John Vanderbank,John,,Vanderbank,English,Portraitist,20/08/1904,04/10/1904
+889,Richard Ansdell,Richard,,Ansdell,English,Naturalist,19/12/1904,27/02/1905
+890,Gabriele Münter,Gabriele,,Munter,German,Expressionist,19/02/1905,15/05/1905
+891,Orazio Gentileschi,Orazio,,Gentileschi,Italian,Baroque,11/04/1904,26/06/1904
+892,Nicholas Pocock,Nicholas,,Pocock,English,Marine Art,06/10/1904,25/12/1904
+893,Julian Alden Weir,Julian,Alden,Weir,American,Impressionist,25/01/1905,02/04/1905
+894,Jan Van Scorel,Jan,,Van Scorel,Dutch,Renaissance,03/02/1904,10/04/1904
+895,Joaquín Sorolla,Joaquin,,Sorolla,Spanish,Impressionist,05/02/1905,06/04/1905
+896,Anne Vallayer-Coster,Anne,Vallayer,Coster,French,Rococo,09/10/1904,22/12/1904
+897,Élisabeth Vigée-LeBrun,Elisabeth,Vigee,Le Brun,French,Neoclassical,20/10/1904,15/01/1905
+898,Joseph M. W. Turner,Joseph,Mallord William,Turner,English,Romantic,09/11/1904,24/01/1905
+899,William Adolphe Bouguereau,William,Adolphe,Bouguereau,French,Classicist,29/12/1904,19/03/1905
+900,Francesco Guardi,Francesco,,Guardi,Italian,Rococo,07/09/1904,27/11/1904
+901,John French Sloan,John,French,Sloan,American,Folk,13/02/1905,04/05/1905
+902,John Constable,John,,Constable,English,Romantic,10/11/1904,10/01/1905
+903,Armand Guillaumin,Guillaumin,,Armand,French,Impressionist,14/01/1905,10/04/1905
+904,Friedrich Von Amerling,Friedrich,,Von Amerling,Austrian,Classicist,07/12/1904,01/03/1905
+905,Max Pechstein,Max,,Pechstein,German,Expressionist,23/02/1905,08/05/1905
+906,Jean-Louis Forain,Jean,Louis,Forain,French,Impressionist,25/01/1905,14/04/1905
+907,Carl Larsson,Carl,,Larsson,Swiss,Post-Impressionist,26/01/1905,02/04/1905
+908,Jean-Antoine Watteau,Jean,Antoine,Watteau,French,Rococo,10/08/1904,16/09/1904
+909,Jan Both,Jan,,Both,Dutch,Baroque,28/05/1904,09/07/1904
+910,John William Godward,John,William,Godward,English,Classicist,03/02/1905,05/04/1905
+911,Jean Frédéric Bazille,Jean,Frederic,Bazille,French,Impressionist,14/01/1905,12/02/1905
+912,Pierre Bonnard,Pierre,,Bonnard,French,Nabi,09/02/1905,30/04/1905
+913,Edward Burne-Jones,Edward,Burne,Jones,English,Neoclassical,06/01/1905,12/03/1905
+914,Cornelis Van Haarlem,Cornelis,,Van Haarlem,Dutch,Baroque,10/04/1904,25/06/1904
+915,Daniel Ridgway Knight,Daniel,Ridgway,Knight,American,Realist,12/01/1905,07/04/1905
+916,Jean-Baptiste-Camille Corot,Jean,Baptiste Camille,Corot,French,Romantic,30/11/1904,17/02/1905
+917,Jan Toorop,Jan,,Toorop,Dutch,Symbolist,31/01/1905,11/04/1905
+918,Rembrandt Peale,Rembrandt,,Peale,American,Neoclassical,12/11/1904,02/02/1905
+919,Edmund Charles Tarbell,Edmund,Charles,Tarbell,American,Impressionist,04/02/1905,21/04/1905
+920,Rembrandt Van Rijn,Rembrandt,,Van Rijn,Dutch,Baroque,24/05/1904,26/07/1904
